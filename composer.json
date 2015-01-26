@@ -1,0 +1,22 @@
+{
+    "name": "mbc-transactional-ott",
+    "type": "project",
+    "version": "0.1.0",
+    "description": "A consummer application for the Message Broker system that processes message requests to OTT (Over The Top) message platforms.",
+    "keywords": ["message broker"],
+    "homepage": "https://github.com/DoSomething/mbc-transactional-ott",
+    "license" : "MIT",
+    "authors": [
+    {
+      "name": "DoSomething and contributors",
+      "homepage": "http://www.dosomething.org"
+    }
+    ],
+    "require": {
+      "mgp25/whatsapi": "dev-master"
+    },
+
+    "require-dev": {
+      "phpunit/phpunit": "3.7.*"
+    }
+}
