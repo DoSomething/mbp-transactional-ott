@@ -6,11 +6,11 @@ A producer for transactions with Over The Top (ott) services:
 ####Setup
 A configuration file (mb-wa-config.inc) is need to store connection settings:
 ```
-**MB-WA-USERNAME**
+#####MB-WA-USERNAME
   WhatsApp account to send messages from
-**MB-WA-NICKNAME**
+#####MB-WA-NICKNAME
   The nickname of the sender account
-```
+
 ```
 **MB-WA-TARGET-USERNAMES**
   A comma separated list of target users to send a message to.
